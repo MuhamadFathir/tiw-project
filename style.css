@@ -12,10 +12,6 @@
 
 }
 
-#about {
-    margin-left: 50%;
-    padding-right: 50px;
-}
 
 .top {
     position: sticky;
@@ -27,16 +23,20 @@
     margin-top: 20%;
 }
 
+
 .zero {
-    /* width: 100vh; */
-    /* margin-top: 30px; */
-    background-color: brown;
+    margin-top: 100px;
 }
 
 .one {
-    /* border: 3px solid black;
+    border: 3px solid black;
+    font-size: 15px;
+    margin: 15px;
     text-align: center;
-    font-size: 20px;
-    width: 100%;
-    margin: 2px; */
+    height: 400;
+    
+}
+
+.none {
+    display: none;
 }
